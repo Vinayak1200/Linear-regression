@@ -18,5 +18,9 @@ Advanced regression techniques like random forest and gradient boosting
 
 Link to the Kaggle competition : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
+# About regression.c
+This is the C code for a basic single feature linear regression model. The program gives a line of best fit on
+the basis of 5 data points entered by the user.
 # Technology used :
 Jupyter notebook
+C programming language
