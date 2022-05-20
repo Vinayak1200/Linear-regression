@@ -23,4 +23,5 @@ This is the C code for a basic single feature linear regression model. The progr
 the basis of 5 data points entered by the user.
 # Technology used :
 Jupyter notebook
+
 C programming language
