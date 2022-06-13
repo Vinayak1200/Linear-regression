@@ -25,7 +25,7 @@ the basis of 5 data points entered by the user.
 # About Principal_conmponent_analysis
 Principal component analysis is a dimensionality reduction technique in linear algebra.
 It reduces the number of features required in a machine learning model by eliminating those
-that contain the least amount of information.
+which contain the least amount of information.
 # Technology used :
 Jupyter notebook
 
